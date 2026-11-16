@@ -17,7 +17,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 20px 40px;
-    background: #252342;
+    background: #2014ce;
     color: white;
 }
 
@@ -32,7 +32,7 @@ body {
 }
 
 button {
-    background: #ff6584;
+    background: #2f2389;
     color: white;
     border: none;
     padding: 12px 22px;
@@ -71,8 +71,8 @@ button {
     max-width: 400px;
     padding: 60px 30px;
     text-align: center;
-    background: #6c63ff;
-    color: white;
+    background: #3c7894;
+    color: rgb(164, 187, 192);
     border-radius: 20px;
 }
 
@@ -85,7 +85,7 @@ button {
     flex-wrap: wrap;
     gap: 30px;
     padding: 40px 25px 20px;
-    background: #252342;
+    background: #1f12cf;
     color: white;
 }
 

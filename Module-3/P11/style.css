@@ -7,11 +7,11 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f2f2f2;
-    color: #333;
+    color: #e32727;
 }
 
 header {
-    background-color: #172554;
+    background-color: #911818;
     color: white;
     text-align: center;
     padding: 25px;
@@ -22,7 +22,7 @@ header h1 {
 }
 
 nav {
-    background-color: #2563eb;
+    background-color: #ec2723;
     padding: 15px;
     text-align: center;
 }
@@ -45,11 +45,11 @@ nav a {
     background-color: white;
     padding: 20px;
     border-radius: 8px;
-    border-top: 5px solid #2563eb;
+    border-top: 5px solid #e6491d;
 }
 
 .news-column h2 {
-    color: #172554;
+    color: #dd851f;
     margin-bottom: 15px;
 }
 
@@ -62,7 +62,7 @@ nav a {
 }
 
 footer {
-    background-color: #172554;
+    background-color: #b4351c;
     color: white;
     text-align: center;
     padding: 15px;

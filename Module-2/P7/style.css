@@ -2,9 +2,9 @@
 /* CSS Design Tokens */
 
 :root {
-    --primary-color: #6c63ff;
-    --secondary-color: #d9bfc4;
-    --background-color: #7e77d0;
+    --primary-color: #efeffb;
+    --secondary-color: #eee4e6;
+    --background-color: #71b37a;
     --text-color: #252342;
     --card-color: #ffffff;
 
@@ -32,7 +32,7 @@ body {
 
 header {
     background-color: var(--primary-color);
-    color: orange;
+    color: rgb(10, 9, 6);
     text-align: center;
     padding: var(--large-spacing);
 }
@@ -70,7 +70,7 @@ p {
 
 button {
     background-color: var(--secondary-color);
-    color: burlywood;
+    color: rgb(39, 34, 28);
     border: none;
     padding: var(--small-spacing) var(--medium-spacing);
     border-radius: 8px;

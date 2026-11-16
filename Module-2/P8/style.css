@@ -6,14 +6,14 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #f4f3ff;
+    background-color: #d3c34c;
     color: #252342;
 }
 
 /* Header */
 
 header {
-    background: #6c63ff;
+    background: #f89934;
     color: white;
     text-align: center;
     padding: 20px;
@@ -24,7 +24,7 @@ header {
 .navbar {
     position: sticky;
     top: 0;
-    background: #252342;
+    background: #0d0b1e;
     padding: 18px;
     text-align: center;
     z-index: 10;
@@ -73,7 +73,7 @@ header {
     bottom: 0;
     left: 0;
     width: 100%;
-    background: rgba(0, 0, 0, 0.75);
+    background: rgba(107, 93, 174, 0.75);
     color: white;
     text-align: center;
     padding: 15px;
